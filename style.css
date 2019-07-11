@@ -1,13 +1,7 @@
 h1{
-    color:green;
+    color:blue;
     font-style: italic;
 }
 p{
     font-style: inherit;
-}
-ol{
-    justify-content: center;
-}
-ul{
-    justify-content: center;
 }
