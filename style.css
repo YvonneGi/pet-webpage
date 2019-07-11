@@ -1,0 +1,11 @@
+h1{
+    color:green;
+    font-style: italic;
+}
+p{
+    font-style: inherit;
+    text-align: center
+}
+img{
+ justify-items: center;   
+}
